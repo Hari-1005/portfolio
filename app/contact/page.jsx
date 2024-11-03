@@ -11,17 +11,17 @@ const infor = [
   {
   icon: <FaPhoneAlt />,
   title: "Phone",
-  description: "+91 7032727577"
+  description: "+91 7095122042"
 },
 {
   icon: <FaEnvelope />,
   title: "Email",
-  description: "kunchalasrinu61@gmail.com"
+  description: "hariteja.in@gmail.com"
 },
 {
   icon: <FaMapMarkerAlt />,
   title: "Address",
-  description: "Hyderabad, Telangana - 508252"
+  description: "Hyderabad, Telangana"
 },
 ];
 

@@ -13,12 +13,12 @@ const Home = () => {
           {/* Text */}
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Full Stack Developer</span>
-            <h1 className="h1">Hello I&lsquo;m <br /> <span className="text-accent">Kunchala Srinu</span></h1>
-            <p className="max-w-[500px] mb-9 text-white/80">A passionate Full Stack Developer and current Intern at Codtech IT Solutions With Role of Full Stack Developer. </p>
+            <h1 className="h1">Hello I&lsquo;m <br /> <span className="text-accent">Hariteja</span></h1>
+            <p className="max-w-[500px] mb-9 mt-1 text-white/80">Full-stack developer with hands-on experience in creating responsive, efficient web applications using the MERN stack. Eager to join a collaborative team where I can contribute to impactful projects and grow my skills in web development.</p>
             
             <div className="flex flex-col xl:flex-row items-center gap-8">
               
-              <Link href="/assets/srinu2.pdf" target="_blank">
+              <Link href="/assets/hariteja.pdf" target="_blank">
               <Button download variant="outline" size="lg" className="uppercase flex items-center gap-2">
                 <span>Download Resume</span>
                 <FiDownload className="text-xl" />

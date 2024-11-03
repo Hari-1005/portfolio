@@ -28,7 +28,7 @@ const projects = [
     ],
     image: '/assets/work/HealthSync.png',
     live: "http://health-sync-five.vercel.app",
-    github:"https://github.com/kunchalasrinu/HealthSync.git",
+    github:"https://github.com/Hari-1005/HealthSync",
   },
   {
     num:'02',
@@ -45,23 +45,24 @@ const projects = [
     ],
     image: '/assets/work/Forever.png',
     live: "http://forever-frontend-seven-psi.vercel.app",
-    github:"https://github.com/kunchalasrinu/Forever.git",
+    github:"https://github.com/Hari-1005/forever",
   },
   {
     num:'03',
     category:'Full Stack',
-    title:'Comment Remover',
-    description: 'Comment Remover is an online web application designed to streamline code cleanup by removing comments from files of various types, including PHP, JavaScript, HTML, and more. This utility helps in enhancing code readability and maintainability, making it easier to manage and understand.',
+    title:'My-Results',
+    description: 'My-Results is a web application designed for B.Tech students at JNTUH to easily access their results with a smooth and hassle-free experience. The platform offers a clean, user-friendly interface, My-Results makes result checking convenient and straightforward, providing an efficient solution for students.',
     stack:[
-      {name: "JS"},
-      {name:"PHP"},
-      {name:"HTML5"},
-      {name:"CSS3"},
-      {name:"C"},
+      {name: "React.Js"},
+      {name:"Node.Js"},
+      {name:"Express.Js"},
+      {name:"REST"},
+      {name:"Tailwind"},
+      {name:""},
     ],
-    image: '/assets/work/thumb3.png',
-    live: "#",
-    github:"https://github.com/rohansonawane/comment-remover",
+    image: '/assets/work/myresults.png',
+    live: "https://my-results.vercel.app/",
+    github:"https://github.com/Hari-1005/My-results",
   },
 
 ];
@@ -139,7 +140,7 @@ const Work = () => {
                   <div className="h-[460px] relative group flex justify-center items-center bg-pink-50/20">
                   <div className="absolute top-0 bottom-0 w-full h-full bg-black/10 z-10"></div>
                   <div>
-                    <Image src={project.image} fill className="object-cover" alt={project.title}/>
+                    <Image src={project.image} fill className="object-contain" alt={project.title}/>
                   </div>
                   </div>
                 </SwiperSlide>

@@ -14,7 +14,7 @@ const jetbrainsMono = JetBrains_Mono({
  });
 
 export const metadata = {
-  title: "Kunchala Srinu | Portfolio",
+  title: "hariteja | Portfolio",
   description: "Full Stack Software Developer | AI / ML | Docker, CI/CD, Jenkins | PHP, Python, JavaScript (React, Node, Next) | WordPress | UI/UX Designer | Blender, Unity Developer | API Integration Specialist | Testing",
 };
 

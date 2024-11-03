@@ -7,7 +7,7 @@ const services = [
   {
     num: '01',
     title: 'Web Development',
-    description: "Create bespoke websites using modern frameworks and technologies, tailored to your brand and business needs.",
+    description: "Create responsive and dynamic websites using modern frameworks and technologies, tailored to your brand and business needs.",
     href: ""
   },
   {

@@ -8,15 +8,15 @@ import Social from '@/components/Social';
 
 const about = {
   title: 'About me',
-  description: "A Full Stack Developer with 1+ year of experience. current Intern at Codtech IT Solutions With Role of Full Stack Developer, I specialize in creating innovative tech solutions.",
+  description: "I’m a full-stack developer with experience in building responsive, efficient web applications using the MERN stack. I’m passionate about creating impactful projects and continuously growing my skills in web development.",
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Kunchala Srinu"
+      fieldValue: "Kasani Hariteja"
     },
     {
       fieldName: "Phone",
-      fieldValue: "+91 7032727577"
+      fieldValue: "+91 7095122042"
     },
     {
       fieldName: "Experience",
@@ -28,7 +28,7 @@ const about = {
     },
     {
       fieldName: "Email",
-      fieldValue: "kunchalasrinu61@gmail.com"
+      fieldValue: "hariteja.in@gmail.com"
     },
   ]
 };
@@ -36,7 +36,7 @@ const about = {
 const experience = {
   icon: '/assets/resume/badge.svg',
   title: 'My Experience',
-  description:"As a Full Stack Web Developer with over One year of experience, I've specialized in crafting secure, high-quality web solutions that prioritize user experience and system performance. My expertise spans a wide range of technologies, including PHP, Python, JavaScript (React.js, Node.js), SQL, and more.", 
+  description:"As a Full Stack Web Developer with over One year of experience, I've specialized in crafting secure, high-quality web solutions that prioritize user experience and system performance. My expertise spans a wide range of technologies, including JavaScript (React.js, Node.js, Express.js), MySQL, and more.", 
   items:[
     {
       company: "Self-Employed",
@@ -44,19 +44,19 @@ const experience = {
       duration: "OCT 2024 - Present"
     },
     {
-      company: "CODTECH IT SOLUTIONS",
-      position: "Full Stack Web Developer",
-      duration: "JUL 2024 - SEPT 2024"
+      company: "OctaNet Services Pvt. Ltd.",
+      position: "Backend Developer",
+      duration: "Aug 2024 - Oct 2024"
     },
     {
       company: "Oasis Infobyte",
-      position: "Python - Backend Developer",
-      duration: "MAR 2024 - MAY 2024"
+      position: "Full Stack Web Developer",
+      duration: "MAR 2024 - Jun 2024"
     },
     {
-      company: "Innovixion Tech",
-      position: "Frontend - Web Developer",
-      duration: "OCT 2023 - DEC 2023"
+      company: "Cyber Secured India",
+      position: "Cyber Security & Digital Forensics",
+      duration: "Nov 2022 - Feb 2023"
     },
   ]
 };
@@ -69,7 +69,7 @@ const education = {
     {
       institution: "Annamacharya institute of technology and sciences",
       degree: "Diploma in CSE",
-      duration: "2017-2020"
+      duration: "2018-2021"
     },
     {
       institution: "Annamacharya institute of technology and sciences",
