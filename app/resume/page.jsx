@@ -44,7 +44,7 @@ const experience = {
       duration: "OCT 2024 - Present"
     },
     {
-      company: "OctaNet Services Pvt. Ltd.",
+      company: "InnoByte Services",
       position: "Backend Developer",
       duration: "Aug 2024 - Oct 2024"
     },
